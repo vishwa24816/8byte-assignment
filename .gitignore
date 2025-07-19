@@ -1,0 +1,4 @@
+receipts.db
+frontend.log
+__pycache__/
+*.pyc

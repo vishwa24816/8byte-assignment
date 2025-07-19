@@ -1,0 +1,6 @@
+INFO:     Will watch for changes in these directories: ['/app']
+INFO:     Uvicorn running on http://127.0.0.1:8001 (Press CTRL+C to quit)
+INFO:     Started reloader process [5600] using StatReload
+2025-07-19 12:50:02,453 - root - INFO - Extracted text: Test Vendor
+12/25/2023
+Total $123.45
