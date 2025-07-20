@@ -4,9 +4,7 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(layout="wide")
-
 st.title("Receipt and Bill Organizer")
-
 st.header("Upload a new receipt")
 uploaded_file = st.file_uploader("Choose a file", type=["jpg", "png", "pdf", "txt"])
 
