@@ -3,7 +3,6 @@ from .database import Base
 
 class Receipt(Base):
     __tablename__ = "receipts"
-
     id = Column(Integer, primary_key=True, index=True)
     vendor = Column(String, index=True)
     transaction_date = Column(Date)
