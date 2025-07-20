@@ -30,10 +30,10 @@
   ```
 * **Run backend server:**
   ```bash
-  uvicorn backend.main:app --reload --port 8001
+  python -m uvicorn backend.main:app --reload --port 8001
   ```
 * **Run frontend application:**
   ```bash
-  streamlit run frontend/app.py
+  python -m streamlit run frontend/app.py
   ```
   
